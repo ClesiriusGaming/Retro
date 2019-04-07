@@ -1,5 +1,5 @@
 {
-  "name": "clesiriusprotect",
+  "name": "retro",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,10 +11,8 @@
   "dependencies": {
     "discord.js": "^11.4.2",
     "fs": "0.0.1-security",
-    "fs-extra": "^7.0.0",
-    "opusscript": "0.0.6",
-    "simple-youtube-api": "^5.0.2",
-    "weather-js": "^2.0.0",
-    "ytdl-core": "^0.27.1"
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "ytdl-core": "^0.29.1"
   }
 }
